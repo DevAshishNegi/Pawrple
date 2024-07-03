@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pawrple/static/css/main.e7e2eb9d.css",
+    "main.js": "/Pawrple/static/js/main.1fcab3e1.js",
+    "static/js/453.0b7243e0.chunk.js": "/Pawrple/static/js/453.0b7243e0.chunk.js",
+    "static/media/dogst.jpeg": "/Pawrple/static/media/dogst.66a5090fa8e5ff7edb6a.jpeg",
+    "static/media/logo.svg": "/Pawrple/static/media/logo.fbb77aa4133a3420566ca49d61d379c0.svg",
+    "index.html": "/Pawrple/index.html",
+    "main.e7e2eb9d.css.map": "/Pawrple/static/css/main.e7e2eb9d.css.map",
+    "main.1fcab3e1.js.map": "/Pawrple/static/js/main.1fcab3e1.js.map",
+    "453.0b7243e0.chunk.js.map": "/Pawrple/static/js/453.0b7243e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e2eb9d.css",
+    "static/js/main.1fcab3e1.js"
+  ]
+}
